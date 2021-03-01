@@ -6,7 +6,7 @@ public class Test {
 	     System.out.println("My name is ganesh");
 		System.out.println("My name is Ramesh");
 		System.out.println("This is testing purpose only");
-		System.out.println("This is send to sts");
+		System.out.println("This is send to sts"+"not send any link");
 	}
 
 }
